@@ -276,7 +276,7 @@ header [class^="container-"] [class*=" col-"] {
 
 /* base color variable*/
 :root {
-  --base-color: #ec1e24;
+  --base-color: #ec484a;
 }
 
 /* ===================================
