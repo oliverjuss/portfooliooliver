@@ -7913,7 +7913,7 @@ header a.logo {
 }
 /* logo suuruse muutmine ja margini lisamine */
 header a.logo img {
-  height: 100px;
+  height: 80px;
   width: auto;
   margin-bottom: 20px;
   margin-top: 10px;
