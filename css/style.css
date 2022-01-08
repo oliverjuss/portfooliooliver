@@ -7913,10 +7913,10 @@ header a.logo {
 }
 /* logo suuruse muutmine ja margini lisamine */
 header a.logo img {
-  height: 80px;
+  height: 126px;
   width: auto;
   margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 22px;
 }
 header .left-nav .sidebar-part1 a.logo img {
   max-height: inherit;
