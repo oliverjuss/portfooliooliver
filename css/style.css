@@ -7913,7 +7913,7 @@ header a.logo {
 }
 /* logo suuruse muutmine ja margini lisamine */
 header a.logo img {
-  height: 126px;
+  height: 100px;
   width: auto;
   margin-bottom: 20px;
   margin-top: 22px;
@@ -7922,7 +7922,7 @@ header .left-nav .sidebar-part1 a.logo img {
   max-height: inherit;
 }
 .logo-holder img {
-  height: 26px;
+  height: 5px;
 }
 
 /* header animation */
@@ -8396,6 +8396,7 @@ nav.navbar.bootsnav .navbar-toggle {
 header nav .brand-logo {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #1a940a;
 }
 header.sticky nav .brand-logo {
   padding-top: 15px;
@@ -15174,7 +15175,7 @@ footer .instafeed-grid.gutter-extra-large {
 
 /* home - portfolio metro */
 .text-bold-underline:before {
-  background-color: var(--base-color);
+  background-color: #385eab;
   height: 3px;
   width: 100%;
   position: absolute;
