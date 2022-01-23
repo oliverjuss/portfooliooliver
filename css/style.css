@@ -3130,7 +3130,7 @@ textarea.input-bg {
   margin-right: 5px;
 }
 .margin-10px-right {
-  margin-right: 10px;
+  margin-right: 100px;
 }
 .margin-15px-right {
   margin-right: 15px;
@@ -14566,7 +14566,7 @@ a img.aligncenter {
   background-color: #141414;
 }
 .footer-logo {
-  height: 60px;
+  height: 120px;
   width: auto;
   /* max-height: 28px;
   muudetud kõrgus ja lisatud margin */
