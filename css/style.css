@@ -1730,13 +1730,13 @@ textarea.input-bg {
 }
 .btn.btn-transparent-black {
   background: transparent;
-  border-color: #000000;
+  border-color: #385eab;
   color: #000000;
 }
 .btn.btn-transparent-black:hover,
 .btn.btn-transparent-black:focus {
-  background: #000000;
-  border-color: #000000;
+  background: #385eab;
+  border-color: #385eab;
   color: #ffffff;
 }
 .btn.btn-transparent-dark-gray {
