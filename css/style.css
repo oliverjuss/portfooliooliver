@@ -276,7 +276,7 @@ header [class^="container-"] [class*=" col-"] {
 
 /* base color variable*/
 :root {
-  --base-color: #ec484a;
+  --base-color: #385eab;
 }
 
 /* ===================================
@@ -327,6 +327,12 @@ h5 {
 h6 {
   font-size: 25px;
   line-height: 30px;
+}
+
+/* text size */
+.text-uus-small {
+  font-size: 10px;
+  line-height: 14px;
 }
 
 /* text size */
@@ -556,13 +562,13 @@ a.text-medium-gray-hover:hover {
   color: #939393 !important;
 }
 a.text-extra-light-gray-hover:hover {
-  color: #b7b7b7 !important;
+  color: #385eab !important;
 }
 a.text-light-gray-hover:hover {
-  color: #d6d5d5 !important;
+  color: #385eab !important;
 }
 a.text-very-light-gray-hover:hover {
-  color: #ededed !important;
+  color: #385eab !important;
 }
 
 /* letter spacing */
@@ -15176,7 +15182,7 @@ footer .instafeed-grid.gutter-extra-large {
 /* home - portfolio metro */
 .text-bold-underline:before {
   background-color: #385eab;
-  height: 7px;
+  height: 5px;
   width: 100%;
   position: absolute;
   right: 0;
