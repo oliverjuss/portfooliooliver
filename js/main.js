@@ -104,12 +104,14 @@
         if (!$('header').hasClass('no-sticky')) {
             if ($(document).scrollTop() >= headerHeight) {
                 $('header').addClass('sticky');
+        
 
             } else if ($(document).scrollTop() <= headerHeight) {
                 $('header').removeClass('sticky');
                 setTimeout(function () {
                     setPageTitleSpace();
                 }, 500);
+            
             }
             SetMegamenuPosition();
         }
@@ -210,7 +212,7 @@
         });
         $(window).scroll(function () {
             if ($(this).scrollTop() > 150)
-                $('.scroll-top-arrow').fadeIn('slow');
+                $('.scroll-top-arrow').fadeIn('slow')
             else
                 $('.scroll-top-arrow').fadeOut('slow');
         });

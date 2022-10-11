@@ -14573,7 +14573,13 @@ a img.aligncenter {
   background-color: #141414;
 }
 .footer-logo {
-  height: 120px;
+  height: 78px;
+  width: auto;
+  /* max-height: 28px;
+  muudetud kõrgus ja lisatud margin */
+}
+.product-logo {
+  height: 56px;
   width: auto;
   /* max-height: 28px;
   muudetud kõrgus ja lisatud margin */
