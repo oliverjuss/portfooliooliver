@@ -12797,10 +12797,13 @@ figure {
 
 /* feature box style 5 */
 .feature-box-5 {
-  padding-left: 75px;
+  /* padding-left: 75px; */
+  text-align: center;
+
 }
 .feature-box-5 i {
-  position: absolute;
+  /* position: absolute; */
+
   top: 0;
   left: 0;
 }
