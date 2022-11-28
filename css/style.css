@@ -11603,6 +11603,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {
   display: table;
   height: 100%;
   top: 0;
+  opacity: 85%;
   transform: none;
   -webkit-transform: none;
   -moz-transform: none;
