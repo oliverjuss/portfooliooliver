@@ -38,6 +38,9 @@ Table of contents
     27. Home page
     28. Others
 */
+
+
+
 /* ===================================
     cursor hover pdf
 ====================================== */
@@ -84,16 +87,16 @@ img:hover+ .ikoon {
 /* ===================================
     zoom
 ====================================== */
-
+/* 
 .zoom {
-  padding: 100px;
+  padding: 100px; */
   /* background-color: green; */
-  transition: transform .2s;
+  /* transition: transform .2s; */
   /* Animation */
   /* width: 200px;
   height: 200px; */
-  margin: 0 auto;
-}
+  /* margin: 0 auto; */
+/* } */
 
 .zoom:hover {
   transform: scale(1.3);
@@ -15410,6 +15413,7 @@ footer .instafeed-grid.gutter-extra-large {
   .signature {
     height: auto;
   }
+    
 }
 
 /* demo page css */
@@ -15508,3 +15512,5 @@ footer .instafeed-grid.gutter-extra-large {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   z-index: 9999;
 }
+
+ 

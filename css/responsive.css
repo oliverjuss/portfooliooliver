@@ -11,6 +11,8 @@
 
 @media (min-width: 576px) {
     .feature-box-14 > div:nth-last-child(2) { border-bottom: 0}
+   
+    
 }
 
 @media (max-width: 1600px) {
