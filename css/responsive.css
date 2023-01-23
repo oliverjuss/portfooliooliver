@@ -14,6 +14,23 @@
    
     
 }
+/* ===================================
+    minu tehtud
+====================================== */
+
+@media (max-width: 425px) {
+    header a.logo img{
+        height: 64px !important;
+    }
+    .footer-logo{
+        height: 64px !important;
+    }
+        
+
+}
+/* ===================================
+    minu tehtud l6pp
+====================================== */
 
 @media (max-width: 1600px) {
     /* grid */
