@@ -49,9 +49,13 @@ Table of contents
     cursor:url("/images/vaatasiia.svg"),pointer
  
     }
+    /* ===================================
+      cursor hover zoom in icon
+  ====================================== */
   
-  
-
+    .zoomin{
+      cursor: zoom-in;
+    }
 
 
 
