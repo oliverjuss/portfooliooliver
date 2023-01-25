@@ -47,16 +47,17 @@ Table of contents
 .hoverikoon
 {
     /* cursor:url("/images/vaatasiia.svg"),zoom-in */
-    cursor: url("/images/click-here.png")
+    cursor:url("/images/hand.svg"),zoom-in 
+    
  
     }
     /* ===================================
       cursor hover zoom in icon
   ====================================== */
   
-    .zoomin{
+    /* .zoomin{
       cursor: zoom-in;
-    }
+    } */
 
 
 
